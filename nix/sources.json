@@ -25,8 +25,8 @@
     },
     "ghcs-nix": {
         "branch": "master",
-        "repo": "https://gitlab.haskell.org/bgamari/ghcs-nix.git",
-        "rev": "71809abe1a0cc54490949156623cd4c8b76c84e3",
+        "repo": "https://gitlab.haskell.org/pepeiborra/ghcs-nix.git",
+        "rev": "76d640868166d1fee5324433b0ea935caaa124ca",
         "type": "git"
     },
     "gitignore": {
